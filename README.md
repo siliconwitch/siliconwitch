@@ -7,3 +7,5 @@ At Silicon Witchery, we're building really tiny wireless modules. Though, we als
 I have a huge passion for STEM and teaching. In my free time, I'm helping to build the first community owned radio astronomy lab in Stockholm. 
 
 If you're ever in town, feel free to drop by for a [fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden), and we can tell you all about it!
+
+![S1 Module](s1-module-back.png)
