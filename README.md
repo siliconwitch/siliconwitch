@@ -8,6 +8,6 @@ I have a huge passion for STEM and teaching, and in my free time, I'm helping to
 
 If you're ever in town, feel free to drop by for a [fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden), and I'll tell you all about it!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-nakarja-embedded/) - 💬 [Twitter](https://twitter.com/siliconwitch) - 📸 [Instagram](https://www.instagram.com/siliconwitch.pole/) *(Fun fact. I also pole dance!)*
+🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-nakarja-embedded/) - 💬 [Twitter](https://twitter.com/siliconwitch) - *(Fun fact. I also [pole dance](https://www.instagram.com/siliconwitch.pole/)!)*
 
 ![S1 Module](s1-module-back.png)
