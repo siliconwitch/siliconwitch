@@ -1,13 +1,11 @@
-### Hi there 👋 I'm Raj. CEO and Chief Engineer at [Silicon Witchery](https://www.siliconwitchery.com)
+### Hi there 👋 I'm Raj. Principal at [Silicon Witchery](https://www.siliconwitchery.com) in Sweden
 
-I focus on embedded hardware and firmware for FPGAs, ARM microcontrollers, and RF systems.
+I'm an Embedded Systems architect by trade, specializing in low power processors, sensing and RF. These days I primarily focus on our core product line, as well as managing the day-to-day operations of the business.
 
-At Silicon Witchery, we're building really tiny wireless modules. Though, we also work with a lot of really cool research projects, including scientific instrumentation, and medical systems.
+We are building an ever expanding line of wirelessly connected computers, along with Agentic AI platforms designed to let businesses quickly and easily query sensors, and drive robotic systems with as little friction as possible.
 
-I have a huge passion for STEM and teaching, and in my free time, I'm helping to build the first community owned radio astronomy lab in Stockholm. 
+We're based in Stockholm, so if you're ever in town, let's get together for [fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden), and I'll tell you all about it!
 
-If you're ever in town, feel free to drop by for a [fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden), and I'll tell you all about it!
-
-🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-nakarja-embedded/) - 💬 [Twitter](https://twitter.com/siliconwitch) - *(Fun fact. I also [pole dance](https://www.instagram.com/siliconwitch.pole/)!)*
+🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-nakarja-embedded/)
 
 ![S1 Module](s1-module-back.png)
