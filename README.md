@@ -6,6 +6,6 @@ We are building an ever expanding line of wirelessly connected computers, along 
 
 We're based in Stockholm, so if you're ever in town, let's get together for [fika](https://en.wikipedia.org/wiki/Coffee_culture#Sweden), and I'll tell you all about it!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rajesh-nakarja-embedded/)
+🔗 [LinkedIn](https://www.linkedin.com/in/siliconwitch/)
 
 ![S1 Module](s1-module-back.png)
